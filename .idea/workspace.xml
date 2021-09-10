@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c03c1d6-4516-48ca-93b4-bccfb8966059" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pset_1/challenge_7/decryptAESinECB.go" beforeDir="false" afterPath="$PROJECT_DIR$/pset_1/challenge_7/decryptAESinECB.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +20,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file:///opt/homebrew/Cellar/go/1.16.5/libexec/src/crypto/cipher/cipher.go" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="1xseBkQHtqEbzvWzBEM89bPBeNB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +51,7 @@
       <recent name="$PROJECT_DIR$/pset_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.go test pset_1">
+  <component name="RunManager" selected="Go Test.TestDecryptAESinECB in cryptopals/pset_1/challenge_7">
     <configuration name="TestBreakRepeatingKeyXor in cryptopals/pset_1/challenge_6" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="cryptopals" />
       <working_directory value="$PROJECT_DIR$/pset_1/challenge_6" />
@@ -60,6 +63,17 @@
       <pattern value="^\QTestBreakRepeatingKeyXor\E$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestDecryptAESinECB in cryptopals/pset_1/challenge_7" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="cryptopals" />
+      <working_directory value="$PROJECT_DIR$/pset_1/challenge_7" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="cryptopals/pset_1/challenge_7" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestDecryptAESinECB\E$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestInterpolate in cryptopals/pset_1/challenge_6" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="cryptopals" />
       <working_directory value="$PROJECT_DIR$/pset_1/challenge_6" />
@@ -69,17 +83,6 @@
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <pattern value="^\QTestInterpolate\E$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestSplitByKeySize in cryptopals/pset_1/challenge_6" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="cryptopals" />
-      <working_directory value="$PROJECT_DIR$/pset_1/challenge_6" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="cryptopals/pset_1/challenge_6" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestSplitByKeySize\E$" />
       <method v="2" />
     </configuration>
     <configuration name="go test cryptopals/pset_1/challenge_6" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -104,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestDecryptAESinECB in cryptopals/pset_1/challenge_7" />
+        <item itemvalue="Go Test.TestBreakRepeatingKeyXor in cryptopals/pset_1/challenge_6" />
         <item itemvalue="Go Test.go test pset_1" />
         <item itemvalue="Go Test.go test cryptopals/pset_1/challenge_6" />
-        <item itemvalue="Go Test.TestBreakRepeatingKeyXor in cryptopals/pset_1/challenge_6" />
         <item itemvalue="Go Test.TestInterpolate in cryptopals/pset_1/challenge_6" />
-        <item itemvalue="Go Test.TestSplitByKeySize in cryptopals/pset_1/challenge_6" />
       </list>
     </recent_temporary>
   </component>

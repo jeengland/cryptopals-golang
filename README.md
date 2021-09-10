@@ -18,7 +18,7 @@ Progress so far:
   - [x] [Detect single-character XOR](https://github.com/jeengland/cryptopals-golang/tree/main/pset_1/challenge_4)
   - [x] [Implement repeating-key XOR](https://github.com/jeengland/cryptopals-golang/tree/main/pset_1/challenge_5)
   - [x] [Break repeating-key XOR](https://github.com/jeengland/cryptopals-golang/tree/main/pset_1/challenge_6)
-  - [ ] AES in ECB mode
+  - [x] [AES in ECB mode](https://github.com/jeengland/cryptopals-golang/tree/main/pset_1/challenge_7)
   - [ ] Detect AES in ECB mode
 - [ ] [Problem Set 2: Block Crypto](https://cryptopals.com/sets/2)
 - [ ] [Problem Set 3: Block & Stream Crypto](https://cryptopals.com/sets/3)
